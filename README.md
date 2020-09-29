@@ -17,4 +17,4 @@ padding-left:10px">
 <h4><a href="https://github.com/dashukvita/C_Sharp_labs/tree/master/C%23_labs/task_10">10. Многопоточное получение и сохранение данных. (Многопоточность. Синхронизация потоков).</a></h4>
 <h4><a href="https://github.com/dashukvita/C_Sharp_labs/tree/master/C%23_labs/task_11">11. Notepad (XAML, элементы управления, Menu, TextBox, стандартные диалоги).</a></h4>
 <h4><a href="https://github.com/dashukvita/C_Sharp_labs/tree/master/C%23_labs/task_12">12. Paint (XAML, кисти, графика).</a></h4>
-<h4><a href="https://github.com/dashukvita/C_Sharp_labs/tree/master/C%23_labs/task_13">13. Media Player (XAML, ControlTemplate, DataTemplate, Style).</a></h4>
+<h4><a href="https://github.com/dashukvita/C_Sharp_labs/tree/master/C%23_labs/task_13">13. Media Player (XAML, ControlTemplate, DataTemplate).</a></h4>
